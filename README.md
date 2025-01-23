@@ -1,4 +1,4 @@
-# Exercise ML
+# Precision Exercise Recognition Through Machine Learning: Insights from Comparative Analysis
 
 Exercise recognition is an emerging area in machine learning aimed at improving fitness monitoring and activity classification. This study compares three machine learning
 models—LSTM, RF, and a hybrid approach combining RF PCA—for identifying five common exercises: Jumping Jacks, Pull-ups, Push-ups, Sit-ups, and Squats, utilizing a motion dataset
